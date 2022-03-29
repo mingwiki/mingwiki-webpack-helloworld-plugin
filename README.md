@@ -1,0 +1,1 @@
+# mingwiki-webpack-helloworld-plugin
