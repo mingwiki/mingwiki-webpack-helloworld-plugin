@@ -1,0 +1,22 @@
+{
+  "name": "mingwiki-webpack-helloworld-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mingwiki/mingwiki-webpack-helloworld-plugin.git"
+  },
+  "author": "mingwiki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mingwiki/mingwiki-webpack-helloworld-plugin/issues"
+  },
+  "homepage": "https://github.com/mingwiki/mingwiki-webpack-helloworld-plugin#readme",
+  "devDependencies": {
+    "webpack-cli": "^4.9.2"
+  }
+}
